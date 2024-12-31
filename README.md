@@ -1,6 +1,6 @@
 # 💫 About Me:
 👩‍💻I am undergraduate student majoring in Computer Science.<br>🌈I have a strong passion for areas such as Artificial Intelligence ,Data Science, Machine Learning, Cyber Security, and beyond.<br>🔭 I'm currently focusing on ML/AI & Cyber Security.<br>📈 Here to display my work and help others with their.
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/muhammadummerr)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/muhammadummerr)](https://leetcode.com/muhammadummerr)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadummerr) 
